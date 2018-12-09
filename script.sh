@@ -1,2 +1,2 @@
 apt-get update && apt-get upgrade -y
-apt-get install lxde iceweasel filezilla
+apt-get install lxde iceweasel filezilla midori
